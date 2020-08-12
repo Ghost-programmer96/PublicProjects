@@ -1,0 +1,7 @@
+C:\Users\Douglass Richlin\Desktop\git repositories\PublicProjects\ETL Example\ETL Example\bin\Debug\ETL Example.exe.config
+C:\Users\Douglass Richlin\Desktop\git repositories\PublicProjects\ETL Example\ETL Example\bin\Debug\ETL Example.exe
+C:\Users\Douglass Richlin\Desktop\git repositories\PublicProjects\ETL Example\ETL Example\bin\Debug\ETL Example.pdb
+C:\Users\Douglass Richlin\Desktop\git repositories\PublicProjects\ETL Example\ETL Example\obj\Debug\ETL Example.csprojAssemblyReference.cache
+C:\Users\Douglass Richlin\Desktop\git repositories\PublicProjects\ETL Example\ETL Example\obj\Debug\ETL Example.csproj.CoreCompileInputs.cache
+C:\Users\Douglass Richlin\Desktop\git repositories\PublicProjects\ETL Example\ETL Example\obj\Debug\ETL Example.exe
+C:\Users\Douglass Richlin\Desktop\git repositories\PublicProjects\ETL Example\ETL Example\obj\Debug\ETL Example.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL Example", "ETL Example\ETL Example.csproj", "{28CBA86C-3631-4973-BF45-9FC8948E8F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28CBA86C-3631-4973-BF45-9FC8948E8F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CBA86C-3631-4973-BF45-9FC8948E8F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CBA86C-3631-4973-BF45-9FC8948E8F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CBA86C-3631-4973-BF45-9FC8948E8F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6059ED4B-8684-44AE-8B2F-4D5C3CCF317D}
+	EndGlobalSection
+EndGlobal
